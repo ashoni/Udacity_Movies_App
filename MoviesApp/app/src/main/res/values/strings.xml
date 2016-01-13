@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_details">MovieDetail</string>
+    <string name="pref_sort_order_label">Sort Order</string>
+    <string name="pref_sort_order_key">sort_order</string>
+    <string name="pref_default_sort_order">popularity.desc</string>
+    <string name="pref_sort_label_popularity">by popularity</string>
+    <string name="pref_sort_label_votes">by votes</string>
+    <string name="pref_sort_popularity">popularity.desc</string>
+    <string name="pref_sort_votes">vote_average.desc</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="favourite">Favourite</string>
+    <string name="action_share">Share</string>
+    <string name="onAddFavourite">Added to Favourites</string>
+    <string name="onRemoveFavourite">Removed from Favourites</string>
+    <string name="content_authority">com.example.annadroid.moviesapp</string>
+    <string name="reviews_label">Reviews</string>
+    <string name="trailers_label">Trailers</string>
+    <string name="top_popular">Top popular</string>
+    <string name="top_voted">Top voted</string>
+    <string name="top_favourites">Favourites</string>
+</resources>
